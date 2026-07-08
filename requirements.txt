@@ -1,6 +1,7 @@
 langgraph
 langchain
 langchain-groq
+langchain-mistralai
 python-dotenv
 
 
